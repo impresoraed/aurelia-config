@@ -1,0 +1,24 @@
+{
+ "build": 1792247603111,
+ "juego": "v63",
+ "fecha": "2026-10-17T14:33:23.246Z",
+ "archivos": [
+  {
+   "n": "index.html",
+   "sha": "e275be1c0a882c8554a75a29eca840dcfece86adeddd13f8a6d5d61de6a5abe8",
+   "len": 1025451
+  },
+  {
+   "n": "logo.png",
+   "sha": "219e747956bce433ecc1f6692bd2a13862e79776c3925e8385e2094e14d4f023",
+   "len": 1267806
+  },
+  {
+   "n": "icon.png",
+   "sha": "89e44c9638ff58cd469be9ca9e19cb902b909885a009e3d3854c36a0ad61784a",
+   "len": 297500
+  }
+ ],
+ "datos": null,
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792247603111/"
+}
