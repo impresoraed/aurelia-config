@@ -1,7 +1,7 @@
 {
- "build": 1792247603111,
+ "build": 1792247629688,
  "juego": "v63",
- "fecha": "2026-10-17T14:33:23.246Z",
+ "fecha": "2026-10-17T14:33:49.820Z",
  "archivos": [
   {
    "n": "index.html",
@@ -20,5 +20,5 @@
   }
  ],
  "datos": null,
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792247603111/"
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792247629688/"
 }
