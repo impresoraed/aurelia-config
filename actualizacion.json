@@ -1,12 +1,12 @@
 {
- "build": 1792304707975,
- "juego": "1.1.5",
- "fecha": "2026-10-18T06:25:08.099Z",
+ "build": 1792306176861,
+ "juego": "1.1.6",
+ "fecha": "2026-10-18T06:49:36.968Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "3a18d728f6c3b003ab3e225381e34e1779f375e68d8ca07da6586861c9b7add4",
-   "len": 1047729
+   "sha": "e6990b07f88470728d07c1326f1057f73d70d8ca9669b21e0f3bc845985082a0",
+   "len": 1051593
   },
   {
    "n": "logo.png",
@@ -24,5 +24,5 @@
   "sha": "bb10c394c1c1bd4bc0c3a1eb9cdb3c9dd1e57bacd469ba60928cfe2e64056f8f",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792304707975/"
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792306176861/"
 }
