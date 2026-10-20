@@ -1,12 +1,12 @@
 {
- "build": 1792443399080,
- "juego": "1.1.33",
- "fecha": "2026-10-19T20:56:39.196Z",
+ "build": 1792515492204,
+ "juego": "1.1.34",
+ "fecha": "2026-10-20T16:58:12.475Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "3bb94e3167a5d0785cdab60a084ef3b32effe6e5f381949a5540ccdf140b2c06",
-   "len": 1193093
+   "sha": "c8025dcb9d8a6c0d116c6275e1a1522fa64ea4334bc080c7e953c49e71262ba2",
+   "len": 1194587
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "5e34e9f86f2b9cf77c6ddfad4161982d7f1de18a3e567b893a441477873ee126",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Grupos: invita con doble clic derecho sobre otro jugador (o con +G en tu lista de amigos). En grupo, la experiencia de los bichos se reparte a partes iguales entre los que estéis cerca. Arriba a la izquierda ves a los de tu grupo con su vida.\nLo que tiras al suelo lo ven todos y sigue ahí aunque salgas y vuelvas a entrar.\nLos objetos en el suelo se ven limpios, sin el recuadro.\nLos guardias ya no te arrastran estando quieto.\nAl equiparte algo, tu personaje sigue moviéndose con normalidad mientras carga la ropa nueva.\nLos bichos tardan más en reaparecer y lo hacen lejos, nunca a tu lado.\nEl inventario cabe siempre en pantalla: tirar oro y el correo siempre a la vista.\nLos caminos vuelven a ser los de antes, con el borde suavizado.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792443399080/"
+ "notas": "Equiparse va fluido: lo que te pones se ve enseguida en el personaje y ya no da tirones ni congelones al cambiar de armadura, casco, arma o escudo.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792515492204/"
 }
