@@ -1,12 +1,12 @@
 {
- "build": 1792844911103,
- "juego": "1.1.39",
- "fecha": "2026-10-24T12:28:31.375Z",
+ "build": 1792863402681,
+ "juego": "1.1.40",
+ "fecha": "2026-10-24T17:36:42.889Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "b01cc6913b6ce41fbac6e3adf16099de904bf427bb7e02a34365c115c15cbd39",
-   "len": 1222288
+   "sha": "0797ee9587c4c451be9471c430fa6acd813b6e7a5dac605761a3fe1c881cf659",
+   "len": 1228805
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "5e34e9f86f2b9cf77c6ddfad4161982d7f1de18a3e567b893a441477873ee126",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Lo que te equipas se ve siempre en tu personaje y al momento, también la primera vez, andando y girando bien.\nEn la pantalla de personajes se prepara todo tu personaje (posturas, movimientos y lo que llevas en la mochila) mientras eliges: verás el progreso debajo de los botones. Puedes darle a Jugar cuando quieras.\nAl entrar, tu personaje anda desde el primer paso.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792844911103/"
+ "notas": "Al morir se cae todo lo que llevas en la mochila: objetos, materiales y pociones. No pierdes lo que llevas puesto, la barca ni la piedra rúnica.\nPacks de personaje en el mercader: compra de una vez el arma, la armadura, el casco (y el escudo si tu clase lo lleva) del nivel que elijas y 2000 pociones de cada. Primero sale el tuyo; debajo, los de las demás clases y niveles, por si quieres regalar.\nInventario: un clic en tu equipo o en tus pociones los marca (borde amarillo) para tirarlos con T; doble clic para quitártelos o tomar una poción.\nEl inventario se ve del mismo tamaño con todas las clases y ya no sale pequeño al entrar.\nEl botón «Más» se ve completo, con su marco.\nCambiar de personaje es más fluido.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792863402681/"
 }
