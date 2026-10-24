@@ -1,12 +1,12 @@
 {
- "build": 1792863402681,
- "juego": "1.1.40",
- "fecha": "2026-10-24T17:36:42.889Z",
+ "build": 1792883360914,
+ "juego": "1.1.41",
+ "fecha": "2026-10-24T23:09:21.345Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "0797ee9587c4c451be9471c430fa6acd813b6e7a5dac605761a3fe1c881cf659",
-   "len": 1228805
+   "sha": "ad68e6793537ccdd026fee9b7db379e98186f2eb0709b9bd8c78b2a70c856ef7",
+   "len": 1246574
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "5e34e9f86f2b9cf77c6ddfad4161982d7f1de18a3e567b893a441477873ee126",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Al morir se cae todo lo que llevas en la mochila: objetos, materiales y pociones. No pierdes lo que llevas puesto, la barca ni la piedra rúnica.\nPacks de personaje en el mercader: compra de una vez el arma, la armadura, el casco (y el escudo si tu clase lo lleva) del nivel que elijas y 2000 pociones de cada. Primero sale el tuyo; debajo, los de las demás clases y niveles, por si quieres regalar.\nInventario: un clic en tu equipo o en tus pociones los marca (borde amarillo) para tirarlos con T; doble clic para quitártelos o tomar una poción.\nEl inventario se ve del mismo tamaño con todas las clases y ya no sale pequeño al entrar.\nEl botón «Más» se ve completo, con su marco.\nCambiar de personaje es más fluido.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792863402681/"
+ "notas": "Mucho más fluido: entrar y salir de un personaje es casi inmediato y al caminar por el mapa ya no hay tirones (también en PCs lentos).\nLas islas ya no tienen lagos: donde estaban, ahora sigue el bosque, la hierba o la sabana de alrededor.\nLos cambios de terreno (por ejemplo, arena y lava) se mezclan de forma suave, sin bordes cuadrados.\nTu escudo se ve en el personaje igual que en el inventario, y de espaldas queda bien colocado en el brazo.\nTirar pociones: ahora te pregunta cuántas quieres tirar (500, 1000, 2000 o la cantidad que escribas).\nHaz clic en un montón de pociones o de oro del suelo y el chat te dice cuántas hay.\nNuevas barras de desplazamiento de madera y bronce.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792883360914/"
 }
