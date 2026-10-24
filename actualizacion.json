@@ -1,12 +1,12 @@
 {
- "build": 1792729328195,
- "juego": "1.1.37",
- "fecha": "2026-10-23T04:22:08.334Z",
+ "build": 1792838703524,
+ "juego": "1.1.38",
+ "fecha": "2026-10-24T10:45:03.720Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "9598722600c96cfb757d9940cb1e3631b09b365dcbe7f2b563adf317e07ad4d7",
-   "len": 1214852
+   "sha": "14ab526633e0996bc9dedaf23f0189addcd933595216b25f5db19fbc8c8c8681",
+   "len": 1221734
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "5e34e9f86f2b9cf77c6ddfad4161982d7f1de18a3e567b893a441477873ee126",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Entrar al juego tras actualizar es más rápido y ya no da tirones las primeras partidas.\nAl equiparte algo, tu personaje ya no mezcla la pieza nueva con la vieja ni se gira solo.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792729328195/"
+ "notas": "Al equiparte un arma, escudo, casco o armadura de la mochila, tu personaje la lleva puesta al momento, andando y girando bien, sin cambios raros.\nEntrar al juego es más rápido.\nMenos tirones: el inventario al equiparse, los objetos del suelo al explorar y el guardado del minimapa ya no paran el juego.\nEl aviso de correo nuevo sale centrado.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792838703524/"
 }
