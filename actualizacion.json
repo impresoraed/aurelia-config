@@ -1,12 +1,12 @@
 {
- "build": 1792883360914,
- "juego": "1.1.41",
- "fecha": "2026-10-24T23:09:21.345Z",
+ "build": 1792922267759,
+ "juego": "1.1.42",
+ "fecha": "2026-10-25T09:57:47.923Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "ad68e6793537ccdd026fee9b7db379e98186f2eb0709b9bd8c78b2a70c856ef7",
-   "len": 1246574
+   "sha": "fc55e00a43724f8da36ee25dba0b5bdc9c7981ebfa41b272a763c9db82bff792",
+   "len": 1264708
   },
   {
    "n": "logo.png",
@@ -21,9 +21,9 @@
  ],
  "datos": null,
  "servidor": {
-  "sha": "5e34e9f86f2b9cf77c6ddfad4161982d7f1de18a3e567b893a441477873ee126",
+  "sha": "63faa631ca51f3df5ae1f6efa2a388571c391b06a3987624a29a2be37a40dfb9",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Mucho más fluido: entrar y salir de un personaje es casi inmediato y al caminar por el mapa ya no hay tirones (también en PCs lentos).\nLas islas ya no tienen lagos: donde estaban, ahora sigue el bosque, la hierba o la sabana de alrededor.\nLos cambios de terreno (por ejemplo, arena y lava) se mezclan de forma suave, sin bordes cuadrados.\nTu escudo se ve en el personaje igual que en el inventario, y de espaldas queda bien colocado en el brazo.\nTirar pociones: ahora te pregunta cuántas quieres tirar (500, 1000, 2000 o la cantidad que escribas).\nHaz clic en un montón de pociones o de oro del suelo y el chat te dice cuántas hay.\nNuevas barras de desplazamiento de madera y bronce.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792883360914/"
+ "notas": "La vida, la energía y el maná ahora están justo encima de tus hechizos: vida a la izquierda, maná a la derecha y la energía en el medallón del centro (guerreros y cazadores llevan la energía a la derecha). Cuando te queda poca vida, la barra late en rojo.\nPasa el ratón o haz clic en el corazón, la gota o el rayo y verás para qué sirve cada cosa.\nEl inventario sube un poco y deja más sitio abajo para la lista de amigos.\nCorreo: cada mensaje tiene su botón «Borrar» (las novedades del juego solo se borran de tu correo), y la ventana tiene siempre el mismo tamaño, entre el chat y la barra de hechizos.\nEl juego consume menos: va a 60 FPS como mucho (puedes cambiarlo en Ajustes) y baja el ritmo cuando está detrás de otra ventana. El contador de FPS te dice también cuántos podría dar tu PC.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792922267759/"
 }
