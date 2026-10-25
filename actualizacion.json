@@ -1,12 +1,12 @@
 {
- "build": 1792922267759,
- "juego": "1.1.42",
- "fecha": "2026-10-25T09:57:47.923Z",
+ "build": 1792922637874,
+ "juego": "1.1.43",
+ "fecha": "2026-10-25T10:03:58.009Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "fc55e00a43724f8da36ee25dba0b5bdc9c7981ebfa41b272a763c9db82bff792",
-   "len": 1264708
+   "sha": "ad1baa852bed5ca3e394448fb0a5a7e7fabf6bd6bdec30d467055169babd3b0e",
+   "len": 1266070
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "63faa631ca51f3df5ae1f6efa2a388571c391b06a3987624a29a2be37a40dfb9",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "La vida, la energía y el maná ahora están justo encima de tus hechizos: vida a la izquierda, maná a la derecha y la energía en el medallón del centro (guerreros y cazadores llevan la energía a la derecha). Cuando te queda poca vida, la barra late en rojo.\nPasa el ratón o haz clic en el corazón, la gota o el rayo y verás para qué sirve cada cosa.\nEl inventario sube un poco y deja más sitio abajo para la lista de amigos.\nCorreo: cada mensaje tiene su botón «Borrar» (las novedades del juego solo se borran de tu correo), y la ventana tiene siempre el mismo tamaño, entre el chat y la barra de hechizos.\nEl juego consume menos: va a 60 FPS como mucho (puedes cambiarlo en Ajustes) y baja el ritmo cuando está detrás de otra ventana. El contador de FPS te dice también cuántos podría dar tu PC.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792922267759/"
+ "notas": "La interfaz se adapta al tamaño de tu pantalla: en monitores panorámicos, 2K, 4K o televisores, la barra de hechizos, el inventario, el minimapa, la ficha del personaje y el chat ocupan lo mismo que en una pantalla normal, en vez de verse pequeños.\nNuevo en Ajustes: «Tamaño de la interfaz», para hacerla más grande o más pequeña a tu gusto.\nCorregido: en pantallas pequeñas la barra de hechizos ya no se parte en dos filas.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792922637874/"
 }
