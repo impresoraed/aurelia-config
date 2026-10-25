@@ -1,12 +1,12 @@
 {
- "build": 1792922637874,
- "juego": "1.1.43",
- "fecha": "2026-10-25T10:03:58.009Z",
+ "build": 1792933283752,
+ "juego": "1.1.44",
+ "fecha": "2026-10-25T13:01:23.924Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "ad1baa852bed5ca3e394448fb0a5a7e7fabf6bd6bdec30d467055169babd3b0e",
-   "len": 1266070
+   "sha": "28d7877ed3fb5029b98f54131b0f5b42d4757d2500650d42c060601ea9d74dd9",
+   "len": 1275258
   },
   {
    "n": "logo.png",
@@ -21,9 +21,9 @@
  ],
  "datos": null,
  "servidor": {
-  "sha": "63faa631ca51f3df5ae1f6efa2a388571c391b06a3987624a29a2be37a40dfb9",
+  "sha": "46a94d682dfc8049b569d1203b23c6b6ba924a6da2e5ebf87a712c7b7d7a4461",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "La interfaz se adapta al tamaño de tu pantalla: en monitores panorámicos, 2K, 4K o televisores, la barra de hechizos, el inventario, el minimapa, la ficha del personaje y el chat ocupan lo mismo que en una pantalla normal, en vez de verse pequeños.\nNuevo en Ajustes: «Tamaño de la interfaz», para hacerla más grande o más pequeña a tu gusto.\nCorregido: en pantallas pequeñas la barra de hechizos ya no se parte en dos filas.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792922637874/"
+ "notas": "Multijugador: el botín de los bichos (oro, pociones, objetos, gemas) lo ven todos, también el que dejan los que matan los bots y las torres. Los objetos que tira otro jugador ya se ven bien en el suelo, no solo su luz.\nGrupo: en el minimapa y en el mapa grande ves a los de tu grupo, cada uno de un color (ya no salen los puntos de los bots). La ventana del grupo ya no tapa tu ficha en pantallas panorámicas.\nLos guardias ya no te arrastran: chocar con ellos es como chocar con un muro, y si les cortas el paso se apartan.\nLos bichos y bots que se quedaban metidos dentro de rocas o minerales salen solos.\nBarca nueva: más grande y mejor hecha, vas sentado dentro, y ves la barca de los otros jugadores. «Vender todo lo común» ya no vende tu barca.\nGólems mucho más duros (piedra 30.000 de vida, magma 34.000, cristal 40.000) y dan mucha más experiencia.\nFuera de las ciudades el mundo se vuelve más mágico: baja la luz y destacan las antorchas y los hechizos (se puede quitar en Ajustes).\nLa lista de amigos ya no encoge el inventario al abrirla. El juego consume un poco menos.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792933283752/"
 }
