@@ -1,12 +1,12 @@
 {
- "build": 1792933283752,
- "juego": "1.1.44",
- "fecha": "2026-10-25T13:01:23.924Z",
+ "build": 1793133144705,
+ "juego": "1.1.45",
+ "fecha": "2026-10-27T20:32:24.930Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "28d7877ed3fb5029b98f54131b0f5b42d4757d2500650d42c060601ea9d74dd9",
-   "len": 1275258
+   "sha": "7393b24aad478896f5d849db4fd50b0cb3a4ed1a5cfc02de4351b7c37e335263",
+   "len": 23500774
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "46a94d682dfc8049b569d1203b23c6b6ba924a6da2e5ebf87a712c7b7d7a4461",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Multijugador: el botín de los bichos (oro, pociones, objetos, gemas) lo ven todos, también el que dejan los que matan los bots y las torres. Los objetos que tira otro jugador ya se ven bien en el suelo, no solo su luz.\nGrupo: en el minimapa y en el mapa grande ves a los de tu grupo, cada uno de un color (ya no salen los puntos de los bots). La ventana del grupo ya no tapa tu ficha en pantallas panorámicas.\nLos guardias ya no te arrastran: chocar con ellos es como chocar con un muro, y si les cortas el paso se apartan.\nLos bichos y bots que se quedaban metidos dentro de rocas o minerales salen solos.\nBarca nueva: más grande y mejor hecha, vas sentado dentro, y ves la barca de los otros jugadores. «Vender todo lo común» ya no vende tu barca.\nGólems mucho más duros (piedra 30.000 de vida, magma 34.000, cristal 40.000) y dan mucha más experiencia.\nFuera de las ciudades el mundo se vuelve más mágico: baja la luz y destacan las antorchas y los hechizos (se puede quitar en Ajustes).\nLa lista de amigos ya no encoge el inventario al abrirla. El juego consume un poco menos.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1792933283752/"
+ "notas": "Bichos nuevos con aspecto 3D y movimiento de verdad (andan moviendo las piernas al ritmo al que avanzan): Hombre lobo, Cíclope y Gárgola.\nLos Gólems de piedra, magma y cristal estrenan aspecto: mismos niveles, vida y botín (siguen soltando sus gemas).\nLa Medusa también cambia de aspecto y ahora repta con su cola de serpiente.\nLas Harpías desaparecen del mundo.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793133144705/"
 }
