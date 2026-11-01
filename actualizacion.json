@@ -1,12 +1,12 @@
 {
- "build": 1793210612355,
- "juego": "1.1.46",
- "fecha": "2026-10-28T18:03:32.539Z",
+ "build": 1793555116461,
+ "juego": "1.1.47",
+ "fecha": "2026-11-01T17:45:16.744Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "66f8db89199b86a67b6b3fcf556ee2ef8fbddc13a557c27b328c81ff62aa1134",
-   "len": 23501423
+   "sha": "a1290a911faf9426c6fc4d4bf32f4654906e178b1eba4b97abb0004b70f0297c",
+   "len": 29595756
   },
   {
    "n": "logo.png",
@@ -24,6 +24,6 @@
   "sha": "cab272be9fd5368ba7a1b55d0bb4ac046fb27f5d441494dfabb6227914cf41e6",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Multijugador: los bichos ahora se ven igual en todas las pantallas. El servidor lleva la cuenta de cada bicho: si alguien lo mata, desaparece para todos y no vuelve a salir antes de tiempo; al acercarte sale donde está de verdad.\nCada bicho lo mueve el juego del jugador que lo tiene más cerca: si te ataca a ti, sus golpes y movimientos van sin retraso.\nLos bichos nuevos (gólems, hombre lobo, cíclope, gárgola, medusa) ya no tardan unos segundos en aparecer.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793210612355/"
+ "notas": "Mina abandonada: nueva cueva con entrada en la pared de la meseta, al oeste de Aurelia (parcela 21). Dentro hay vetas de hierro, plata y oro, y la salida está al sur de la primera sala, por donde entra la luz del día.\nBichos nuevos en la mina: los guardianes de cristales y, al fondo, el jefe: el Coloso cristalino.\nMinerales con dibujo nuevo. Ahora solo 4 de cada 10 rocas tienen veta, y algunas vetas son grandes y dan el doble.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793555116461/"
 }
