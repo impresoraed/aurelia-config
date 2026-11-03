@@ -1,12 +1,12 @@
 {
- "build": 1793555116461,
- "juego": "1.1.47",
- "fecha": "2026-11-01T17:45:16.744Z",
+ "build": 1793720354723,
+ "juego": "1.1.48",
+ "fecha": "2026-11-03T15:39:15.484Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "a1290a911faf9426c6fc4d4bf32f4654906e178b1eba4b97abb0004b70f0297c",
-   "len": 29595756
+   "sha": "912d1ff4cc70998bf827e25bb60d8264930043905ca4084d345221e170975919",
+   "len": 48298466
   },
   {
    "n": "logo.png",
@@ -19,11 +19,17 @@
    "len": 297500
   }
  ],
- "datos": null,
+ "datos": {
+  "n": "datos_parche.pak",
+  "idx": "datos_parche.idx.json",
+  "sha": "1561644a40daec3a1802e04f9fc027bc8fde7cf5f62e25e8c730427a5b46aaf7",
+  "len": 190914114,
+  "cuantas": 142
+ },
  "servidor": {
-  "sha": "cab272be9fd5368ba7a1b55d0bb4ac046fb27f5d441494dfabb6227914cf41e6",
+  "sha": "68fc86e146b43aae7dc94b3445f9f19ef57c7c2b622008da2b7bdd3964f4ab50",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Mina abandonada: nueva cueva con entrada en la pared de la meseta, al oeste de Aurelia (parcela 21). Dentro hay vetas de hierro, plata y oro, y la salida está al sur de la primera sala, por donde entra la luz del día.\nBichos nuevos en la mina: los guardianes de cristales y, al fondo, el jefe: el Coloso cristalino.\nMinerales con dibujo nuevo. Ahora solo 4 de cada 10 rocas tienen veta, y algunas vetas son grandes y dan el doble.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793555116461/"
+ "notas": "Personajes nuevos en 3D: todas las clases, razas y armaduras con movimientos nuevos al andar y atacar, y túnicas que se mueven con las piernas.\nCrear personaje: modelo 3D que gira 360° y elección de hombre o mujer.\nGólems con un paso mucho más fluido.\nMina: la salida ya no tiene bola de luz, solo el haz de luz del día, y el farol de la entrada se ve entero.\nSe quitan del mundo las rocas sin veta.\nNueva opción «Recordar cuenta y contraseña» al entrar.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793720354723/"
 }
