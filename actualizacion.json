@@ -1,12 +1,12 @@
 {
- "build": 1793729354546,
- "juego": "1.1.49",
- "fecha": "2026-11-03T18:09:15.714Z",
+ "build": 1793730682041,
+ "juego": "1.1.50",
+ "fecha": "2026-11-03T18:31:22.971Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "16ff3a55142af675671c1095e6379daf76db45eb54296d8b179e45a3bc062c4a",
-   "len": 66252780
+   "sha": "cbad14cba32fa3135c58aeb356fdaf6d49e766aae6dcf8b96fce055530157ef8",
+   "len": 48298466
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "68fc86e146b43aae7dc94b3445f9f19ef57c7c2b622008da2b7bdd3964f4ab50",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Personajes: vuelven el aspecto y el equipo de siempre, iguales a lo que ves en el inventario, también las caras y estaturas de cada raza.\nNuevo paso al andar, sin que los pies resbalen, y túnicas que se mueven con las rodillas y los pies.\nContra un muro el personaje se para, aunque sigas pulsando la tecla.\nSin armadura el personaje se ve en calzones, sin botas ni carcaj.\nGólems con un paso más fluido.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793729354546/"
+ "notas": "Vuelven los personajes 3D, con su forma de andar y sus túnicas: se deshacen los cambios de la versión anterior.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793730682041/"
 }
