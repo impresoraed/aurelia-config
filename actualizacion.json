@@ -1,12 +1,12 @@
 {
- "build": 1793730682041,
- "juego": "1.1.50",
- "fecha": "2026-11-03T18:31:22.971Z",
+ "build": 1793769522971,
+ "juego": "1.1.51",
+ "fecha": "2026-11-04T05:18:44.494Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "cbad14cba32fa3135c58aeb356fdaf6d49e766aae6dcf8b96fce055530157ef8",
-   "len": 48298466
+   "sha": "4f6f6da3beea2d47e669debc8894d0f47a1806594267e16ba9fd8e0eec4ed481",
+   "len": 48313838
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "1561644a40daec3a1802e04f9fc027bc8fde7cf5f62e25e8c730427a5b46aaf7",
-  "len": 190914114,
-  "cuantas": 142
+  "sha": "b42d0b49d34b1cab344d010a7b3bd03962f7540a498d6803e5ac17fb454f3352",
+  "len": 200432042,
+  "cuantas": 158
  },
  "servidor": {
   "sha": "68fc86e146b43aae7dc94b3445f9f19ef57c7c2b622008da2b7bdd3964f4ab50",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Vuelven los personajes 3D, con su forma de andar y sus túnicas: se deshacen los cambios de la versión anterior.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793730682041/"
+ "notas": "Equipo y ataques de los personajes:\n\n- Lo que llevas en el inventario se ve en tu personaje: armas, báculos, escudos, armaduras y túnicas llevan el dibujo de su icono. Gorros y capuchas toman el color del icono.\n- La luz del báculo es del color de su gema.\n- Sin armadura te quedas en calzones, en todas las clases.\n- Cada raza tiene su cara y el gnomo es bajito, también al crear personaje.\n- Las armas se cogen por el mango y hay ataques nuevos: tajo de espada, golpe pesado de maza y martillo, y empuje de báculo.\n- El escudo ya no atraviesa la cabeza ni el brazo atraviesa el escudo.\n- Al cambiar de equipo ya no aparece un destello de la ropa anterior.\n- Contra un muro, tu personaje se para aunque sigas pulsando la tecla.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793769522971/"
 }
