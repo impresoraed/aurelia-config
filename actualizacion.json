@@ -1,12 +1,12 @@
 {
- "build": 1794051849982,
- "juego": "1.1.52",
- "fecha": "2026-11-07T11:44:10.778Z",
+ "build": 1794076639660,
+ "juego": "1.1.53",
+ "fecha": "2026-11-07T18:37:20.690Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "a83e0f1d85dbb0c3bf40c64e5734e1e5344f0e0766b5a1be8057c016b8e5fbec",
-   "len": 48324323
+   "sha": "e182840d11439f92075eb693f0031b12b5e3718ab0e7db86c4c14a9408fd01e8",
+   "len": 48326925
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "0c81ed39fed2f52a779a7c65280d6d9132c47d47e35c974f6890a2fe1ab94dd6",
-  "len": 203235822,
-  "cuantas": 158
+  "sha": "879e0c90274d88db6888b8ac70286bb44816161de573647bac4fad86d0878052",
+  "len": 206530510,
+  "cuantas": 166
  },
  "servidor": {
   "sha": "69b5015692682968769bb024266b6502a3bee600f950d2b4c690e01689c9198f",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Cascos nuevos y equipo al día:\n\n- Cascos nuevos para guerreros, paladines y cazadores, sacados de su icono: casco de cuero cerrado, casco de bronce con cresta, yelmo cerrado con visera y cota, y casco con alas. Acabado mate, con cuello y sin tocar los hombros.\n- El cazador con casco lleva el casco de su icono en vez de la capucha.\n- Las mejoras de equipo de la versión anterior (armas, escudos y armaduras con el dibujo de su icono) ahora sí llegan a todos los juegos: al conectarte, el juego baja solo las imágenes de personaje que tenías antiguas.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794051849982/"
+ "notas": "Guardias y arcos:\n\n- Los guardias vigilan su puesto: casi siempre quietos mirando al frente, giran la vista de vez en cuando y hacen rondas cortas en línea recta antes de volver a su sitio. Ya no cruzan la ciudad ni se juntan en las esquinas.\n- Los guardias andan con un paso de paseo más natural, miran hacia donde caminan y ya no se meten contra casas, árboles, faroles ni jardineras.\n- Las piernas de los personajes van al ritmo de lo que avanzan, también los que ves de otros jugadores.\n- El arco del cazador apunta hacia donde mira, en todas las direcciones.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794076639660/"
 }
