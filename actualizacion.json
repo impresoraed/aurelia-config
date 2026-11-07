@@ -1,12 +1,12 @@
 {
- "build": 1793769522971,
- "juego": "1.1.51",
- "fecha": "2026-11-04T05:18:44.494Z",
+ "build": 1794051849982,
+ "juego": "1.1.52",
+ "fecha": "2026-11-07T11:44:10.778Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "4f6f6da3beea2d47e669debc8894d0f47a1806594267e16ba9fd8e0eec4ed481",
-   "len": 48313838
+   "sha": "a83e0f1d85dbb0c3bf40c64e5734e1e5344f0e0766b5a1be8057c016b8e5fbec",
+   "len": 48324323
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "b42d0b49d34b1cab344d010a7b3bd03962f7540a498d6803e5ac17fb454f3352",
-  "len": 200432042,
+  "sha": "0c81ed39fed2f52a779a7c65280d6d9132c47d47e35c974f6890a2fe1ab94dd6",
+  "len": 203235822,
   "cuantas": 158
  },
  "servidor": {
-  "sha": "68fc86e146b43aae7dc94b3445f9f19ef57c7c2b622008da2b7bdd3964f4ab50",
+  "sha": "69b5015692682968769bb024266b6502a3bee600f950d2b4c690e01689c9198f",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Equipo y ataques de los personajes:\n\n- Lo que llevas en el inventario se ve en tu personaje: armas, báculos, escudos, armaduras y túnicas llevan el dibujo de su icono. Gorros y capuchas toman el color del icono.\n- La luz del báculo es del color de su gema.\n- Sin armadura te quedas en calzones, en todas las clases.\n- Cada raza tiene su cara y el gnomo es bajito, también al crear personaje.\n- Las armas se cogen por el mango y hay ataques nuevos: tajo de espada, golpe pesado de maza y martillo, y empuje de báculo.\n- El escudo ya no atraviesa la cabeza ni el brazo atraviesa el escudo.\n- Al cambiar de equipo ya no aparece un destello de la ropa anterior.\n- Contra un muro, tu personaje se para aunque sigas pulsando la tecla.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1793769522971/"
+ "notas": "Cascos nuevos y equipo al día:\n\n- Cascos nuevos para guerreros, paladines y cazadores, sacados de su icono: casco de cuero cerrado, casco de bronce con cresta, yelmo cerrado con visera y cota, y casco con alas. Acabado mate, con cuello y sin tocar los hombros.\n- El cazador con casco lleva el casco de su icono en vez de la capucha.\n- Las mejoras de equipo de la versión anterior (armas, escudos y armaduras con el dibujo de su icono) ahora sí llegan a todos los juegos: al conectarte, el juego baja solo las imágenes de personaje que tenías antiguas.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794051849982/"
 }
