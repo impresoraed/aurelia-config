@@ -1,12 +1,12 @@
 {
- "build": 1794076639660,
- "juego": "1.1.53",
- "fecha": "2026-11-07T18:37:20.690Z",
+ "build": 1794139386921,
+ "juego": "1.1.54",
+ "fecha": "2026-11-08T12:03:08.467Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "e182840d11439f92075eb693f0031b12b5e3718ab0e7db86c4c14a9408fd01e8",
-   "len": 48326925
+   "sha": "b542d2d72283dc6e6dbc1cb96e07aae9de1dfaae1999a61822d51e2f0f69fa83",
+   "len": 48348253
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 166
  },
  "servidor": {
-  "sha": "69b5015692682968769bb024266b6502a3bee600f950d2b4c690e01689c9198f",
+  "sha": "e0c59add56e7bc75f21213b81f6dc2a245dfb25a14e001164072afdc5f3b007a",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Guardias y arcos:\n\n- Los guardias vigilan su puesto: casi siempre quietos mirando al frente, giran la vista de vez en cuando y hacen rondas cortas en línea recta antes de volver a su sitio. Ya no cruzan la ciudad ni se juntan en las esquinas.\n- Los guardias andan con un paso de paseo más natural, miran hacia donde caminan y ya no se meten contra casas, árboles, faroles ni jardineras.\n- Las piernas de los personajes van al ritmo de lo que avanzan, también los que ves de otros jugadores.\n- El arco del cazador apunta hacia donde mira, en todas las direcciones.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794076639660/"
+ "notas": "Arreglos de la prueba con testers:\n\n- Multijugador: ahora ves los hechizos y disparos de los demás jugadores. Lo que se tira al suelo se comprueba con el servidor cada 30 s, para que todos lo vean.\n- Grupo: sin fuego amigo, una sola ventana de invitación y una flecha en el minimapa hacia cada compañero.\n- «Remover parálisis» funciona sobre cualquier jugador, sea del bando que sea.\n- Los hechizos van directos al enemigo al que apuntas, más rápidos, y no los para quien se cruce.\n- Barra de hechizos: se guarda donde pones cada hechizo, y para moverlos hay que mantenerlos pulsados 2 s (ya no se pierden).\n- Bichos: ya no se curan de golpe al huir y siempre pierden vida aunque estén paralizados. El jefe de la mina vuelve a aparecer.\n- Torres de guardia: pegan menos y solo disparan cuando se ven en pantalla.\n- No pierdes oro al morir. Se gana un 30 % más de oro y la tienda es un 60 % más barata (la barca, igual).\n- Inventario: los objetos iguales se apilan en un hueco, y al tirarlos se pregunta cuántos.\n- Chat: los botones de canal (global, privado) ya funcionan.\n- Mapa grande: puedes marcar parcelas y ver la ficha de cada bicho (botín y reaparición).\n- Escribano del padrón en Cenizal, y paso por la costa al este de Cenizal.\n- El borde sur del mapa es mar, y el logo pasa a la izquierda.\n- Menos tirones al moverte por el mapa.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794139386921/"
 }
