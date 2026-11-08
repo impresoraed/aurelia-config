@@ -1,12 +1,12 @@
 {
- "build": 1794139386921,
- "juego": "1.1.54",
- "fecha": "2026-11-08T12:03:08.467Z",
+ "build": 1794145313474,
+ "juego": "1.1.55",
+ "fecha": "2026-11-08T13:41:56.365Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "b542d2d72283dc6e6dbc1cb96e07aae9de1dfaae1999a61822d51e2f0f69fa83",
-   "len": 48348253
+   "sha": "c3c85105a10d896ba0769d18c59edd57361b0f45af7a657bcb6dc0025de7da6b",
+   "len": 69381092
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "e0c59add56e7bc75f21213b81f6dc2a245dfb25a14e001164072afdc5f3b007a",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Arreglos de la prueba con testers:\n\n- Multijugador: ahora ves los hechizos y disparos de los demás jugadores. Lo que se tira al suelo se comprueba con el servidor cada 30 s, para que todos lo vean.\n- Grupo: sin fuego amigo, una sola ventana de invitación y una flecha en el minimapa hacia cada compañero.\n- «Remover parálisis» funciona sobre cualquier jugador, sea del bando que sea.\n- Los hechizos van directos al enemigo al que apuntas, más rápidos, y no los para quien se cruce.\n- Barra de hechizos: se guarda donde pones cada hechizo, y para moverlos hay que mantenerlos pulsados 2 s (ya no se pierden).\n- Bichos: ya no se curan de golpe al huir y siempre pierden vida aunque estén paralizados. El jefe de la mina vuelve a aparecer.\n- Torres de guardia: pegan menos y solo disparan cuando se ven en pantalla.\n- No pierdes oro al morir. Se gana un 30 % más de oro y la tienda es un 60 % más barata (la barca, igual).\n- Inventario: los objetos iguales se apilan en un hueco, y al tirarlos se pregunta cuántos.\n- Chat: los botones de canal (global, privado) ya funcionan.\n- Mapa grande: puedes marcar parcelas y ver la ficha de cada bicho (botín y reaparición).\n- Escribano del padrón en Cenizal, y paso por la costa al este de Cenizal.\n- El borde sur del mapa es mar, y el logo pasa a la izquierda.\n- Menos tirones al moverte por el mapa.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794139386921/"
+ "notas": "Bichos nuevos y más fuertes:\n\n- Nuevos goblins en 3D (nivel 25 a 40): Goblin, Goblin bruto, Goblin chamán y Goblin explorador.\n- Nuevas brujas en 3D (nivel 28 a 38): Bruja oscura, Hechicera sombría, Bruja nigromante, Bruja de escarcha y Bruja de sangre.\n- Nueva Águila gigante (nivel 43).\n- El dragón ahora es el Cerbero dracónico: nivel 50, 150.000 de vida, suelta la Gema lunar casi siempre (90 %) y tarda 40 minutos en reaparecer.\n- Más vida, experiencia y oro: hombre lobo (nivel 45), cíclope (nivel 41), medusa y los tres gólems (nivel 48-50). Los gólems reaparecen cada 5 minutos.\n- En el mapa grande, la ficha de cada bicho dice cuánto tarda en reaparecer.\n- La primera vez que abras el juego tras actualizar, la carga de «Monstruos» tarda un poco más (solo una vez).",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794145313474/"
 }
