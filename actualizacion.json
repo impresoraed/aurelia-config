@@ -1,12 +1,12 @@
 {
- "build": 1794148705190,
- "juego": "1.1.56",
- "fecha": "2026-11-08T14:38:26.810Z",
+ "build": 1794172050202,
+ "juego": "1.1.57",
+ "fecha": "2026-11-08T21:07:33.427Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "c143656255501649e805b15d69bdc627f1224052470d64eea71bf34eacc5ce8e",
-   "len": 69384623
+   "sha": "837ebafdc1fe918fb7804779d83f72c47bbca2737356d299b578d798d5bcf04d",
+   "len": 72504170
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "793821d09ea08ea23cb63b5ae155bb96c74cbbe0642a5aa52e004cbbb6d1b15e",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Arreglos:\n\n- Mapa grande: el ratón ya marca la parcela que tienes debajo (antes marcaba una más abajo) y se ve la mano del juego.\n- Mapa grande: solo queda marcada la última parcela que pulsas; pulsando la misma se desmarca.\n- Sonido: ya no se oyen golpes y fallos de las torres y bichos lejanos por todo el mapa; solo lo que pasa cerca.\n- La pantalla de personajes muestra tu personaje tal y como es ahora, con su equipo.\n- Con cada actualización, todos los bichos muertos (también el Cerbero dracónico) vuelven a salir.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794148705190/"
+ "notas": "Novedades:\n\n- Nuevo Yeti en la nieve (nivel 48).\n- Experiencia: todos los bichos dan experiencia según su vida, como los gólems, y ya no hay penalización por nivel.\n- Los bichos persiguen al primero que les pega hasta perderlo (ya no se giran con cada golpe).\n- Choques sólidos: nadie empuja a nadie y no te deslizas al chocar con bichos, personajes o árboles.\n- Aturdir: tras un aturdimiento quedas 4 s inmune a otro (los paladines ya no te dejan bloqueado sin poder hacer nada).\n- El nigromante puede llevar escudo.\n- Los objetos apilados muestran cuántos tienes.\n- Puedes invitar a grupo a jugadores de otra facción aunque hayas peleado hace poco con bichos.\n- Ajustes: los desplegables ya no se salen de la ventana.\n- Mapa grande: sale la guarida del Cerbero dracónico y el nivel real de los gólems.\n- Menos tirones al andar (el suelo se pinta poco a poco y los bots gastan menos).",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794172050202/"
 }
