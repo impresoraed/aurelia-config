@@ -1,12 +1,12 @@
 {
- "build": 1794145313474,
- "juego": "1.1.55",
- "fecha": "2026-11-08T13:41:56.365Z",
+ "build": 1794148705190,
+ "juego": "1.1.56",
+ "fecha": "2026-11-08T14:38:26.810Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "c3c85105a10d896ba0769d18c59edd57361b0f45af7a657bcb6dc0025de7da6b",
-   "len": 69381092
+   "sha": "c143656255501649e805b15d69bdc627f1224052470d64eea71bf34eacc5ce8e",
+   "len": 69384623
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 166
  },
  "servidor": {
-  "sha": "e0c59add56e7bc75f21213b81f6dc2a245dfb25a14e001164072afdc5f3b007a",
+  "sha": "793821d09ea08ea23cb63b5ae155bb96c74cbbe0642a5aa52e004cbbb6d1b15e",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Bichos nuevos y más fuertes:\n\n- Nuevos goblins en 3D (nivel 25 a 40): Goblin, Goblin bruto, Goblin chamán y Goblin explorador.\n- Nuevas brujas en 3D (nivel 28 a 38): Bruja oscura, Hechicera sombría, Bruja nigromante, Bruja de escarcha y Bruja de sangre.\n- Nueva Águila gigante (nivel 43).\n- El dragón ahora es el Cerbero dracónico: nivel 50, 150.000 de vida, suelta la Gema lunar casi siempre (90 %) y tarda 40 minutos en reaparecer.\n- Más vida, experiencia y oro: hombre lobo (nivel 45), cíclope (nivel 41), medusa y los tres gólems (nivel 48-50). Los gólems reaparecen cada 5 minutos.\n- En el mapa grande, la ficha de cada bicho dice cuánto tarda en reaparecer.\n- La primera vez que abras el juego tras actualizar, la carga de «Monstruos» tarda un poco más (solo una vez).",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794145313474/"
+ "notas": "Arreglos:\n\n- Mapa grande: el ratón ya marca la parcela que tienes debajo (antes marcaba una más abajo) y se ve la mano del juego.\n- Mapa grande: solo queda marcada la última parcela que pulsas; pulsando la misma se desmarca.\n- Sonido: ya no se oyen golpes y fallos de las torres y bichos lejanos por todo el mapa; solo lo que pasa cerca.\n- La pantalla de personajes muestra tu personaje tal y como es ahora, con su equipo.\n- Con cada actualización, todos los bichos muertos (también el Cerbero dracónico) vuelven a salir.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794148705190/"
 }
