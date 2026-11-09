@@ -1,12 +1,12 @@
 {
- "build": 1794251703169,
- "juego": "1.1.59",
- "fecha": "2026-11-09T19:15:04.212Z",
+ "build": 1794255890038,
+ "juego": "1.1.60",
+ "fecha": "2026-11-09T20:24:52.039Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "fb1fb046fb2206ecaf6563061f7940928325acdc734e6235e0809e0625e4c1b9",
-   "len": 72816709
+   "sha": "0ff8a700a1c155ab55b99dcbbb9c9ebf53be01f39e2a329812107576e0f4a7d3",
+   "len": 72816724
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "793821d09ea08ea23cb63b5ae155bb96c74cbbe0642a5aa52e004cbbb6d1b15e",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Nueva ficha del personaje: marco dorado nuevo con tu nombre, clase, facción, nivel, barra de experiencia y tus datos de daño, defensa y poder.\n- El emblema muestra tu nivel exacto y cambia de color cada 5 niveles. En el nivel 50 brilla con el color de tu facción: azul imperial, naranja republicano o morado renegado.\n- La barra de experiencia se lee mejor: muestra la experiencia que llevas o «Nivel máximo».",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794251703169/"
+ "notas": "Novedades:\n\n- Ficha del personaje retocada: emblema de nivel más grande y el marco ya no se ve cortado junto al emblema.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794255890038/"
 }
