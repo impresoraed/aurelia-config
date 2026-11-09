@@ -1,12 +1,12 @@
 {
- "build": 1794248325017,
- "juego": "1.1.58",
- "fecha": "2026-11-09T18:18:46.353Z",
+ "build": 1794251703169,
+ "juego": "1.1.59",
+ "fecha": "2026-11-09T19:15:04.212Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "d647dcaa57ff426f8d69f9dfdd792382f4f7f4ed8519e5fa74254774a1fc4e47",
-   "len": 72838768
+   "sha": "fb1fb046fb2206ecaf6563061f7940928325acdc734e6235e0809e0625e4c1b9",
+   "len": 72816709
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "793821d09ea08ea23cb63b5ae155bb96c74cbbe0642a5aa52e004cbbb6d1b15e",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Nuevo emblema de nivel en la ficha de tu personaje: cambia de color cada 5 niveles (verde, azul, morado, rojo, turquesa, bronce, azul, verde azulado, naranja y plata). En el nivel 50 brilla con el color de tu facción: azul si eres imperial, naranja si eres republicano y morado si eres renegado.\n- Menos tirones cerca de los bichos nuevos (goblins, brujas, dragón, águila, yeti y gólems): sus dibujos se preparan antes de verse y ya no paran el juego al dibujarlos.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794248325017/"
+ "notas": "Novedades:\n\n- Nueva ficha del personaje: marco dorado nuevo con tu nombre, clase, facción, nivel, barra de experiencia y tus datos de daño, defensa y poder.\n- El emblema muestra tu nivel exacto y cambia de color cada 5 niveles. En el nivel 50 brilla con el color de tu facción: azul imperial, naranja republicano o morado renegado.\n- La barra de experiencia se lee mejor: muestra la experiencia que llevas o «Nivel máximo».",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794251703169/"
 }
