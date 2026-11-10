@@ -1,12 +1,12 @@
 {
- "build": 1794292395924,
- "juego": "1.1.62",
- "fecha": "2026-11-10T06:33:17.002Z",
+ "build": 1794347212248,
+ "juego": "1.1.63",
+ "fecha": "2026-11-10T21:46:53.492Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "af292b95b891228ae48434a8470443f336f255e6fcf246142c32fd89fd8194df",
-   "len": 72619683
+   "sha": "0e6b9f79fc9a197bf384d06f00e2b866577bb03d867cbffa4e1156942328b371",
+   "len": 72630372
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "a8b47e3aa0cf9339c5f7477e9a87f7c34e88044e4bb159bbba48d677d3a5565d",
-  "len": 207472134,
-  "cuantas": 166
+  "sha": "2f0aa5c76755144b7527e71b668378fd078036ea3b3067737503e71a0932b6f1",
+  "len": 269214257,
+  "cuantas": 5610
  },
  "servidor": {
   "sha": "2bd8550b4e8b38369756572d54c0f347d114e69986e73fc882d001ad04039dbe",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Juego mucho más fluido: menos cortes y tirones, sobre todo en las ciudades y al llegar a zonas nuevas.\n- El suelo ya pintado se guarda: al volver a una zona carga al momento.\n- Edificios, murallas y suelo se cargan en segundo plano sin parar el juego.\n- Los bichos nuevos (yeti, goblins, brujas, águila...) andan bien desde el primer segundo.\n- Menos uso de memoria y menos pausas del juego para liberarla.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794292395924/"
+ "notas": "Novedades:\n\n- Cazador: el arco ya no se va a la espalda. Lo lleva delante, con el brazo adelantado, y se ve bien desde todos los lados.\n- Todo el suelo del mundo y de la mina viene ya preparado: al andar por zonas nuevas el juego ya no tiene que dibujarlo, y se evitan esos tirones.\n- La mina va mucho más fluida.\n- Menos tirones cerca de Aurelia.\n- Menos pausas del juego para liberar memoria.\n\nEsta actualización es más grande de lo normal: puede tardar un poco más en descargarse.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794347212248/"
 }
