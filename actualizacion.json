@@ -1,12 +1,12 @@
 {
- "build": 1794255890038,
- "juego": "1.1.60",
- "fecha": "2026-11-09T20:24:52.039Z",
+ "build": 1794286211482,
+ "juego": "1.1.61",
+ "fecha": "2026-11-10T04:50:12.671Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "0ff8a700a1c155ab55b99dcbbb9c9ebf53be01f39e2a329812107576e0f4a7d3",
-   "len": 72816724
+   "sha": "059350ed51da5968da785cc806e2828f7cf6a538ae0eab6f9f8f77c1ff9a3e42",
+   "len": 72611166
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "879e0c90274d88db6888b8ac70286bb44816161de573647bac4fad86d0878052",
-  "len": 206530510,
+  "sha": "a8b47e3aa0cf9339c5f7477e9a87f7c34e88044e4bb159bbba48d677d3a5565d",
+  "len": 207472134,
   "cuantas": 166
  },
  "servidor": {
-  "sha": "793821d09ea08ea23cb63b5ae155bb96c74cbbe0642a5aa52e004cbbb6d1b15e",
+  "sha": "2bd8550b4e8b38369756572d54c0f347d114e69986e73fc882d001ad04039dbe",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Ficha del personaje retocada: emblema de nivel más grande y el marco ya no se ve cortado junto al emblema.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794255890038/"
+ "notas": "Novedades:\n\n- Cazador: el arco ya apunta hacia donde miras y disparas (andando, quieto y disparando).\n- Nuevo hechizo para todos: Invisibilidad. Te vuelves medio transparente 20 s y los bichos no te ven ni te atacan, aunque les pegues.\n- Grupo: ya se puede invitar con doble clic derecho a cualquier jugador, aunque no sea tu amigo. Ese menú (comerciar, amigo, mensaje) no funcionaba.\n- Inmovilizar contra jugadores dura 5 s y después quedas 5 s inmune.\n- Mina: los guardianes reaparecen cada minuto y el coloso cada 10 minutos.\n- Águila gigante: ya anda mirando hacia donde va.\n- Minimapa con marco nuevo: «!» información y «+» mapa grande.\n- Pantalla de personajes: nombres con el color de su facción y los personajes salen al momento.\n- El aviso de actualización llega al momento y el juego se reinicia a los 60 s.\n- Menos tirones con los bichos nuevos y fuera los restos del personaje antiguo.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794286211482/"
 }
