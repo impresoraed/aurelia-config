@@ -1,12 +1,12 @@
 {
- "build": 1794419625598,
- "juego": "1.1.64",
- "fecha": "2026-11-11T17:53:47.145Z",
+ "build": 1794423728211,
+ "juego": "1.1.65",
+ "fecha": "2026-11-11T19:02:09.732Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "c41dcfe5d6af5c8f86482bb84351b103b09956cb1d378b654c17d38e9299d4b1",
-   "len": 72869673
+   "sha": "a124b76b0183b97ca8949438bb0cd91f7d8f7943673c55a16f9bf0364588db65",
+   "len": 73053041
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "2f0aa5c76755144b7527e71b668378fd078036ea3b3067737503e71a0932b6f1",
-  "len": 269214257,
-  "cuantas": 5610
+  "sha": "b74e7f084c937fb16f2b3623d60e450b5915347acfe993ebf34273b627a93895",
+  "len": 271842590,
+  "cuantas": 5612
  },
  "servidor": {
-  "sha": "2bd8550b4e8b38369756572d54c0f347d114e69986e73fc882d001ad04039dbe",
+  "sha": "1199af628fa55f1366c60ed15d4bf264dc26636371265bcb3f2f27fd5f176b8e",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Inventario nuevo: marco, pestañas, casillas y botones con el nuevo diseño.\n- El oro se ve ahora encima de «Tirar oro», y arriba a la derecha está «Minimizar» para plegar el panel.\n- Menú «Más» y ventana de Amigos con el nuevo diseño.\n- Arreglado: al volver a abrir el panel, el inventario ya no sale aplastado.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794419625598/"
+ "notas": "Novedades:\n\n- Nueva espada legendaria: «Llama Esmeralda, la Matadragones». Solo para guerreros y paladines. Cada golpe a un dragón le quita entre 4.500 y 5.500 de vida. Brilla con una llama verde. Solo se puede forjar en la herrería (nivel 22) con lingotes de oro antiguo, oro y plata.\n- Inventario: los objetos y los números (pociones, materiales) ya quedan dentro de su recuadro dorado, sin cuadrado de fondo.\n- Los administradores pueden llevar el nombre en color neón para que los reconozcáis cuando dan soporte.\n- Conexión: si el servidor se reinicia (por ejemplo tras un corte de luz), el juego vuelve a encontrarlo solo.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794423728211/"
 }
