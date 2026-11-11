@@ -1,12 +1,12 @@
 {
- "build": 1794423728211,
- "juego": "1.1.65",
- "fecha": "2026-11-11T19:02:09.732Z",
+ "build": 1794425561943,
+ "juego": "1.1.66",
+ "fecha": "2026-11-11T19:32:43.474Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "a124b76b0183b97ca8949438bb0cd91f7d8f7943673c55a16f9bf0364588db65",
-   "len": 73053041
+   "sha": "71ec16f8ec8a69a97c5c578d9e06ac494a6cdadd77b8b9f943dcff0fa80b7801",
+   "len": 73062492
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "1199af628fa55f1366c60ed15d4bf264dc26636371265bcb3f2f27fd5f176b8e",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Nueva espada legendaria: «Llama Esmeralda, la Matadragones». Solo para guerreros y paladines. Cada golpe a un dragón le quita entre 4.500 y 5.500 de vida. Brilla con una llama verde. Solo se puede forjar en la herrería (nivel 22) con lingotes de oro antiguo, oro y plata.\n- Inventario: los objetos y los números (pociones, materiales) ya quedan dentro de su recuadro dorado, sin cuadrado de fondo.\n- Los administradores pueden llevar el nombre en color neón para que los reconozcáis cuando dan soporte.\n- Conexión: si el servidor se reinicia (por ejemplo tras un corte de luz), el juego vuelve a encontrarlo solo.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794423728211/"
+ "notas": "Novedades:\n\n- La espada «Llama Esmeralda, la Matadragones» ahora se puede llevar desde el nivel 35.\n- Mejoras en las herramientas de los administradores para probar el juego y dar soporte.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794425561943/"
 }
