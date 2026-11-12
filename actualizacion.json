@@ -1,12 +1,12 @@
 {
- "build": 1794425561943,
- "juego": "1.1.66",
- "fecha": "2026-11-11T19:32:43.474Z",
+ "build": 1794517244956,
+ "juego": "1.1.67",
+ "fecha": "2026-11-12T21:00:46.396Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "71ec16f8ec8a69a97c5c578d9e06ac494a6cdadd77b8b9f943dcff0fa80b7801",
-   "len": 73062492
+   "sha": "98c5d22a88c1fb40b4cf58004927d95f262479164ee2315115afc1379ff19fe6",
+   "len": 74544608
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 5612
  },
  "servidor": {
-  "sha": "1199af628fa55f1366c60ed15d4bf264dc26636371265bcb3f2f27fd5f176b8e",
+  "sha": "b5523674690bc7503c4ac185ed26493ce31793c79d88f8b44f7ad14eb4d47d40",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- La espada «Llama Esmeralda, la Matadragones» ahora se puede llevar desde el nivel 35.\n- Mejoras en las herramientas de los administradores para probar el juego y dar soporte.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794425561943/"
+ "notas": "Novedades:\n\n- Amuletos: 12 amuletos nuevos (veneno, fuego, escarcha, parálisis, rayo, curación, robo de vida, críticos, Golpe del Juicio, Rompepiedras, Solar y Céfiro) en común, raro y legendario. Clic derecho sobre un arma o una armadura → «Engarzar».\n- Orbes: 4 reliquias nuevas muy raras. Las gemas de clan tienen dibujo nuevo. Gemas, orbes y amuletos solo se consiguen matando bichos.\n- Subastas: nueva pestaña en el mercader para vender objetos a otros jugadores. El oro te llega aunque estés desconectado.\n- Barra de hechizos y ventana de chat nuevas. La barra tiene una casilla más (tecla X). El chat tiene botones de amigos, clan, global y ajustes, y un canal nuevo de Zona.\n- Sangre al golpear con armas, charco al morir y tajos al atacar.\n- Subir de nivel cuesta un 50 % más de experiencia.\n- La espada Matadragones puede salir del botín de los bichos.\n- Arreglos: el banco guarda y apila lingotes y materiales; el clan sale al momento; la ventana de amigos ya no se corta; los números de daño salen sobre quien golpea; la pantalla de personajes carga antes; los objetos en el suelo ya no brillan todos.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794517244956/"
 }
