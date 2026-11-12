@@ -1,12 +1,12 @@
 {
- "build": 1794517244956,
- "juego": "1.1.67",
- "fecha": "2026-11-12T21:00:46.396Z",
+ "build": 1794521701123,
+ "juego": "1.1.68",
+ "fecha": "2026-11-12T22:15:02.957Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "98c5d22a88c1fb40b4cf58004927d95f262479164ee2315115afc1379ff19fe6",
-   "len": 74544608
+   "sha": "e050a18fe4952ae48e3f00a4d8980949666f1ecf4d1340cf1374afb37a984995",
+   "len": 74838490
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "b5523674690bc7503c4ac185ed26493ce31793c79d88f8b44f7ad14eb4d47d40",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Amuletos: 12 amuletos nuevos (veneno, fuego, escarcha, parálisis, rayo, curación, robo de vida, críticos, Golpe del Juicio, Rompepiedras, Solar y Céfiro) en común, raro y legendario. Clic derecho sobre un arma o una armadura → «Engarzar».\n- Orbes: 4 reliquias nuevas muy raras. Las gemas de clan tienen dibujo nuevo. Gemas, orbes y amuletos solo se consiguen matando bichos.\n- Subastas: nueva pestaña en el mercader para vender objetos a otros jugadores. El oro te llega aunque estés desconectado.\n- Barra de hechizos y ventana de chat nuevas. La barra tiene una casilla más (tecla X). El chat tiene botones de amigos, clan, global y ajustes, y un canal nuevo de Zona.\n- Sangre al golpear con armas, charco al morir y tajos al atacar.\n- Subir de nivel cuesta un 50 % más de experiencia.\n- La espada Matadragones puede salir del botín de los bichos.\n- Arreglos: el banco guarda y apila lingotes y materiales; el clan sale al momento; la ventana de amigos ya no se corta; los números de daño salen sobre quien golpea; la pantalla de personajes carga antes; los objetos en el suelo ya no brillan todos.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794517244956/"
+ "notas": "Novedades:\n\n- Ventana del mapa nueva, a juego con el inventario, el minimapa y el chat.\n- Gemas, amuletos y orbes: solo los sueltan las criaturas de más de 10.000 de vida, todas con la misma probabilidad. Gemas de los gólems: 5 %. Amuletos: común 10 %, raro 7,5 %, legendario 5 %. Orbes: 15 %.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794521701123/"
 }
