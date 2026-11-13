@@ -1,12 +1,12 @@
 {
- "build": 1794590791213,
- "juego": "1.1.70",
- "fecha": "2026-11-13T17:26:32.778Z",
+ "build": 1794592789058,
+ "juego": "1.1.71",
+ "fecha": "2026-11-13T17:59:52.603Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "a462caa11473ef69552a04656ba36a29fa3776a8d5f08f3d8e417d44e72d20c6",
-   "len": 75574982
+   "sha": "9afe5ca3a9b28a3b50a9373232f76a22316233e0e88e0e8dc9a35e6053cfa99b",
+   "len": 75594509
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 5612
  },
  "servidor": {
-  "sha": "b5523674690bc7503c4ac185ed26493ce31793c79d88f8b44f7ad14eb4d47d40",
+  "sha": "da3156385d41d3b1910d8e4dad7b2a3c1b62da765001e1204a2f9a9b5a856050",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Pantallas de iniciar sesión y de personajes con el marco limpio y los títulos grandes.\n- Nuevo: «Más → Información», con todos los amuletos, gemas, orbes, bichos, árboles, minerales y hierbas del juego, lo que hacen y cómo se consiguen.\n- En el mapa, la ficha de cada criatura muestra ahora lo que suelta de amuletos, orbes y la espada Matadragones.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794590791213/"
+ "notas": "Novedades:\n\n- Reliquias más difíciles: las criaturas de más de 10.000 de vida tienen un 5 % de soltar UNA reliquia (gema de gólem, amuleto u orbe). Lo que mata un bot se lo queda él.\n- Las armas y escudos con amuleto brillan del color de su amuleto: los demás lo ven. El símbolo del amuleto en el icono es más grande. Los objetos únicos (Matadragones) no admiten amuletos de momento.\n- Mapa: al pasar el ratón por lo que suelta una criatura sale su dibujo.\n- En la mina, los golpes a criaturas de cristal y piedra sueltan esquirlas.\n- Pantalla de personajes centrada en cualquier pantalla; iconos de la barra nítidos en pantallas grandes; barras de maná y energía sin la mancha; el chat se vacía al enviar.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794592789058/"
 }
