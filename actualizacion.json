@@ -1,12 +1,12 @@
 {
- "build": 1794581579271,
- "juego": "1.1.69",
- "fecha": "2026-11-13T14:53:01.238Z",
+ "build": 1794590791213,
+ "juego": "1.1.70",
+ "fecha": "2026-11-13T17:26:32.778Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "ac85b4724d300ef7b9b8a16f657e97b8784b70e524ea2f402ee85c4c2da99a64",
-   "len": 75454424
+   "sha": "a462caa11473ef69552a04656ba36a29fa3776a8d5f08f3d8e417d44e72d20c6",
+   "len": 75574982
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "b5523674690bc7503c4ac185ed26493ce31793c79d88f8b44f7ad14eb4d47d40",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Pantalla de personajes y de iniciar sesión nuevas, a juego con el inventario y el mapa.\n- En la pantalla de personajes, los de élite muestran su rango: Sagrado, Miliciano o Caótico.\n- Mapa grande: las esquinas del mapa ya no se salen del marco.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794581579271/"
+ "notas": "Novedades:\n\n- Pantallas de iniciar sesión y de personajes con el marco limpio y los títulos grandes.\n- Nuevo: «Más → Información», con todos los amuletos, gemas, orbes, bichos, árboles, minerales y hierbas del juego, lo que hacen y cómo se consiguen.\n- En el mapa, la ficha de cada criatura muestra ahora lo que suelta de amuletos, orbes y la espada Matadragones.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794590791213/"
 }
