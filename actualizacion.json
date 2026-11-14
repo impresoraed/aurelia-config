@@ -1,12 +1,12 @@
 {
- "build": 1794592789058,
- "juego": "1.1.71",
- "fecha": "2026-11-13T17:59:52.603Z",
+ "build": 1794679426869,
+ "juego": "1.1.72",
+ "fecha": "2026-11-14T18:03:48.372Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "9afe5ca3a9b28a3b50a9373232f76a22316233e0e88e0e8dc9a35e6053cfa99b",
-   "len": 75594509
+   "sha": "311e7cd7f1f3765dd1cbe70054b32c3a9bfbbdd40bbfc04dd3e5aa2d368646df",
+   "len": 85775356
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "b74e7f084c937fb16f2b3623d60e450b5915347acfe993ebf34273b627a93895",
-  "len": 271842590,
-  "cuantas": 5612
+  "sha": "e8deb1e1c5d60ead141f65a86c04576a64d5611087f761fed5e715b0afe714ee",
+  "len": 276337548,
+  "cuantas": 6080
  },
  "servidor": {
   "sha": "da3156385d41d3b1910d8e4dad7b2a3c1b62da765001e1204a2f9a9b5a856050",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Reliquias más difíciles: las criaturas de más de 10.000 de vida tienen un 5 % de soltar UNA reliquia (gema de gólem, amuleto u orbe). Lo que mata un bot se lo queda él.\n- Las armas y escudos con amuleto brillan del color de su amuleto: los demás lo ven. El símbolo del amuleto en el icono es más grande. Los objetos únicos (Matadragones) no admiten amuletos de momento.\n- Mapa: al pasar el ratón por lo que suelta una criatura sale su dibujo.\n- En la mina, los golpes a criaturas de cristal y piedra sueltan esquirlas.\n- Pantalla de personajes centrada en cualquier pantalla; iconos de la barra nítidos en pantallas grandes; barras de maná y energía sin la mancha; el chat se vacía al enviar.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794592789058/"
+ "notas": "Novedades:\n\n- Nueva cueva: la Gruta Musgosa. Su entrada está en un prado de la parcela 31. Dentro viven criaturas nuevas: el Ogro musgoso, el Gnomo druida (lanza hechizos desde lejos) y la Babosa de la gruta. En la gran sala hay tres gólems de piedra.\n- Nueva cueva en pruebas: el Abismo Mágico (entrada en el bosque encantado, parcela 27). Todavía sin criaturas.\n- Mapa de cuevas: dentro de una cueva, el mapa grande se abre en «Cuevas» (flechas para pasar al mapa del mundo).",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794679426869/"
 }
