@@ -1,12 +1,12 @@
 {
- "build": 1794679426869,
- "juego": "1.1.72",
- "fecha": "2026-11-14T18:03:48.372Z",
+ "build": 1794682916768,
+ "juego": "1.1.73",
+ "fecha": "2026-11-14T19:01:58.410Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "311e7cd7f1f3765dd1cbe70054b32c3a9bfbbdd40bbfc04dd3e5aa2d368646df",
-   "len": 85775356
+   "sha": "42eb02677272987a2db11993aed8a7fd432d5b2152163a2f71a6df1e32e570b5",
+   "len": 85707967
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 6080
  },
  "servidor": {
-  "sha": "da3156385d41d3b1910d8e4dad7b2a3c1b62da765001e1204a2f9a9b5a856050",
+  "sha": "862155c2d6ba3d8516f8d1dd86f791d57b1fde3d76d8bcf29eb6ab45e545ef34",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Nueva cueva: la Gruta Musgosa. Su entrada está en un prado de la parcela 31. Dentro viven criaturas nuevas: el Ogro musgoso, el Gnomo druida (lanza hechizos desde lejos) y la Babosa de la gruta. En la gran sala hay tres gólems de piedra.\n- Nueva cueva en pruebas: el Abismo Mágico (entrada en el bosque encantado, parcela 27). Todavía sin criaturas.\n- Mapa de cuevas: dentro de una cueva, el mapa grande se abre en «Cuevas» (flechas para pasar al mapa del mundo).",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794679426869/"
+ "notas": "Novedades:\n\n- Gruta Musgosa: la salida de dentro tiene luz del día al fondo que te guía. La roca de la entrada ya no deja meterse detrás.\n- Minimapa en las cuevas: un bocadillo con el dibujo de la salida te indica dónde está (o hacia dónde queda). El suelo de las cuevas se ve con su tono real.\n- Mapa de cuevas con parcelas: haz clic en una parcela para ver sus criaturas y su ficha (vida, experiencia, oro y lo que sueltan).\n- Información → Bichos: haz clic en una criatura para ver su ficha.\n- El bocadillo de texto encima de los personajes muestra el mensaje entero. El chat admite textos más largos.\n- El ogro y el gnomo druida caminan de forma más natural.\n- Subir de nivel cuesta un 10 % más de experiencia.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794682916768/"
 }
