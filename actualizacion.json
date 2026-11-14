@@ -1,12 +1,12 @@
 {
- "build": 1794697322844,
- "juego": "1.1.75",
- "fecha": "2026-11-14T23:02:04.479Z",
+ "build": 1794699617940,
+ "juego": "1.1.76",
+ "fecha": "2026-11-14T23:40:19.908Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "3bfc5da9b640433f5f3538913f10ef6be038ed4b763db89cd735d10df7784e51",
-   "len": 91544575
+   "sha": "11f9742bc237169c083ccedbcc5dfa05ec9724e856481224fb7fbe3e63564e3e",
+   "len": 91544600
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "862155c2d6ba3d8516f8d1dd86f791d57b1fde3d76d8bcf29eb6ab45e545ef34",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\r\n\r\n- Subir de nivel cuesta un 50 % más de experiencia (las criaturas ahora dan mucha más).",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794697322844/"
+ "notas": "Novedades:\r\n\r\n- Subir de nivel cuesta el doble de experiencia.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794699617940/"
 }
