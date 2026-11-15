@@ -1,12 +1,12 @@
 {
- "build": 1794745802769,
- "juego": "1.1.78",
- "fecha": "2026-11-15T12:30:04.592Z",
+ "build": 1794761250404,
+ "juego": "1.1.79",
+ "fecha": "2026-11-15T16:47:34.181Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "0e1f69db84e9821290e002f26466d639db6c8223072acde26a36c78389ec325a",
-   "len": 106555824
+   "sha": "83be8547506fa38b6597da8c4404c6f8fec26642fa2994f6ba12fac6ed7ac002",
+   "len": 117968022
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "e8deb1e1c5d60ead141f65a86c04576a64d5611087f761fed5e715b0afe714ee",
-  "len": 276337548,
-  "cuantas": 6080
+  "sha": "601f6b24a3cf98fdfddea2c11f3e9fb184535c2a0862b7599fd30697f7cf1a07",
+  "len": 281827758,
+  "cuantas": 6656
  },
  "servidor": {
-  "sha": "d0eeefaa2e27fdbb6947472a7e2889a61c3c6aaf4e2ab967f460c627ed40c69d",
+  "sha": "c28960d7b53e334c8a2b3f70cbdc5aad697f23abdb3061d1e566fd44ff47cc00",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "# NUEVA CUEVA\nEl Abismo Mágico: plataformas de roca suspendidas sobre la niebla, con flores y cristales. Entrada en el claro del bosque encantado.\n- Bichos nuevos: Espíritu mágico (nivel 42), Polilla arcana (45) y los Esbirros de Binks (48). Al final te espera la jefa, la Babosa Binks (nivel 50).\n- Cofre del explorador: la primera vez que llegas al final de cada cueva (mina, Gruta Musgosa y Abismo) encuentras un cofre solo para ti, con mucho oro, un objeto legendario, un amuleto y una gema u orbe.\n\nAdemás:\n- Al clicar en un jugador ves su clase, raza, nivel y facción (también Sagrado, Miliciano o Caótico).\n- El nivel de los compañeros de grupo se actualiza solo.\n- Sin menú de comerciar o invitar durante 10 s después de pegar o recibir un golpe.\n- La barra de hechizos y las teclas se guardan con tu personaje: las mismas en cualquier PC.\n- Contra jugadores y bots se pega y se defiende como con el equipo común; la rareza cuenta contra los bichos. Aturdir solo funciona contra bichos.\n- Guardias y torres solo atacan a jugadores y bots enemigos; los bichos dejan de perseguirte cerca de las ciudades.\n- Árboles, minerales y plantas recogidos desaparecen para todos.\n- La espada matadragones cae mucho menos.\n- El marco de cada casilla del inventario toma el color de lo que lleva.\n- Ajustes: tamaño del chat y «Mover la interfaz…» para colocar y agrandar cada ventana.\n- Arreglados gólems repetidos y bichos que parpadeaban, y mejoras de rendimiento.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794745802769/"
+ "notas": "# NUEVA CUEVA\nLa Caverna Helada: una sala enorme de hielo y nieve, con pilares y cristales. Entrada en la hierba al sur de la isla de nieve del norte.\n- Bichos nuevos: Esquimal gruñón (nivel 42), Bestia Fría (nivel 45) y gólems de cristal.\n- Cofre del explorador también en la Caverna Helada (solo la primera vez que llegas al fondo).\n\nAdemás:\n- Multijugador mucho más suave: los demás jugadores y los bichos ya no se mueven a tirones.\n- Entrar en el Abismo Mágico ya no hace bajar los FPS (su suelo viene preparado).\n- Los objetos legendarios brillan en el inventario.\n- El Espíritu mágico levita.\n- Arreglada la luz de la salida de la mina, que atravesaba la roca.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794761250404/"
 }
