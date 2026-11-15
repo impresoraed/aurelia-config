@@ -1,12 +1,12 @@
 {
- "build": 1794761250404,
- "juego": "1.1.79",
- "fecha": "2026-11-15T16:47:34.181Z",
+ "build": 1794763241621,
+ "juego": "1.1.80",
+ "fecha": "2026-11-15T17:20:43.676Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "83be8547506fa38b6597da8c4404c6f8fec26642fa2994f6ba12fac6ed7ac002",
-   "len": 117968022
+   "sha": "16a0d6902ab4adb3ab081efb349a4381a058a37998385c835a6cf70f5f4a7912",
+   "len": 117968544
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "c28960d7b53e334c8a2b3f70cbdc5aad697f23abdb3061d1e566fd44ff47cc00",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "# NUEVA CUEVA\nLa Caverna Helada: una sala enorme de hielo y nieve, con pilares y cristales. Entrada en la hierba al sur de la isla de nieve del norte.\n- Bichos nuevos: Esquimal gruñón (nivel 42), Bestia Fría (nivel 45) y gólems de cristal.\n- Cofre del explorador también en la Caverna Helada (solo la primera vez que llegas al fondo).\n\nAdemás:\n- Multijugador mucho más suave: los demás jugadores y los bichos ya no se mueven a tirones.\n- Entrar en el Abismo Mágico ya no hace bajar los FPS (su suelo viene preparado).\n- Los objetos legendarios brillan en el inventario.\n- El Espíritu mágico levita.\n- Arreglada la luz de la salida de la mina, que atravesaba la roca.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794761250404/"
+ "notas": "Novedades:\n\n- Arreglado: el mapa grande y el minimapa volvían a salir con el dibujo sencillo antiguo. Ya sale siempre el mapa bueno.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794763241621/"
 }
