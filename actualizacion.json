@@ -1,12 +1,12 @@
 {
- "build": 1794699617940,
- "juego": "1.1.76",
- "fecha": "2026-11-14T23:40:19.908Z",
+ "build": 1794703139594,
+ "juego": "1.1.77",
+ "fecha": "2026-11-15T00:39:01.579Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "11f9742bc237169c083ccedbcc5dfa05ec9724e856481224fb7fbe3e63564e3e",
-   "len": 91544600
+   "sha": "533eca09fc1d34ee42ee2ea80bea7b1051c2129b47fd4cc09ba39cfa7c34cfbd",
+   "len": 91796579
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 6080
  },
  "servidor": {
-  "sha": "862155c2d6ba3d8516f8d1dd86f791d57b1fde3d76d8bcf29eb6ab45e545ef34",
+  "sha": "32158ebfb739583540a9b8d90cb792718883e79e7a02b34655509bb165751866",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\r\n\r\n- Subir de nivel cuesta el doble de experiencia.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794699617940/"
+ "notas": "Novedades:\r\n\r\n- Nuevo: Nivel de Leyenda. Al llegar al nivel 50, la experiencia sigue sumando niveles de Leyenda (hasta el 300), con 12 rangos de 25 niveles. Su emblema sale a la derecha de tu ficha con el nivel, y en pequeño junto a tu nombre en el mundo (lo ven todos). La barra de experiencia toma el color de tu rango. Pulsa la «!» del emblema para más información.\r\n- Subir de nivel cuesta el doble de experiencia.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794703139594/"
 }
