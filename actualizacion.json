@@ -1,12 +1,12 @@
 {
- "build": 1794763241621,
- "juego": "1.1.80",
- "fecha": "2026-11-15T17:20:43.676Z",
+ "build": 1794764406907,
+ "juego": "1.1.81",
+ "fecha": "2026-11-15T17:40:09.244Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "16a0d6902ab4adb3ab081efb349a4381a058a37998385c835a6cf70f5f4a7912",
-   "len": 117968544
+   "sha": "482b0516d39cb8654e1c280b17e011346a34dac8b09b998e448d814c5514c77c",
+   "len": 117969003
   },
   {
    "n": "logo.png",
@@ -22,14 +22,14 @@
  "datos": {
   "n": "datos_parche.pak",
   "idx": "datos_parche.idx.json",
-  "sha": "601f6b24a3cf98fdfddea2c11f3e9fb184535c2a0862b7599fd30697f7cf1a07",
-  "len": 281827758,
-  "cuantas": 6656
+  "sha": "19b22e754800d9070ba3ec491611453ee80996897701f96f290038fdfe76cb60",
+  "len": 287694214,
+  "cuantas": 7340
  },
  "servidor": {
   "sha": "c28960d7b53e334c8a2b3f70cbdc5aad697f23abdb3061d1e566fd44ff47cc00",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\n\n- Arreglado: el mapa grande y el minimapa volvían a salir con el dibujo sencillo antiguo. Ya sale siempre el mapa bueno.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794763241621/"
+ "notas": "Novedades:\n\n- La entrada de la Caverna Helada está ahora en la nieve, al norte de la isla de Puerto Hielo.\n- El mapa marca en pequeño la entrada de cada cueva (mina, gruta, abismo y caverna) con su nombre, para encontrarlas fácil.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794764406907/"
 }
