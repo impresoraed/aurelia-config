@@ -1,12 +1,12 @@
 {
- "build": 1794703139594,
- "juego": "1.1.77",
- "fecha": "2026-11-15T00:39:01.579Z",
+ "build": 1794745802769,
+ "juego": "1.1.78",
+ "fecha": "2026-11-15T12:30:04.592Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "533eca09fc1d34ee42ee2ea80bea7b1051c2129b47fd4cc09ba39cfa7c34cfbd",
-   "len": 91796579
+   "sha": "0e1f69db84e9821290e002f26466d639db6c8223072acde26a36c78389ec325a",
+   "len": 106555824
   },
   {
    "n": "logo.png",
@@ -27,9 +27,9 @@
   "cuantas": 6080
  },
  "servidor": {
-  "sha": "32158ebfb739583540a9b8d90cb792718883e79e7a02b34655509bb165751866",
+  "sha": "d0eeefaa2e27fdbb6947472a7e2889a61c3c6aaf4e2ab967f460c627ed40c69d",
   "ws": "dede5089f7a3b4b7372c13ba81611296b74417b4cb4d7705c1b02881f4d88867"
  },
- "notas": "Novedades:\r\n\r\n- Nuevo: Nivel de Leyenda. Al llegar al nivel 50, la experiencia sigue sumando niveles de Leyenda (hasta el 300), con 12 rangos de 25 niveles. Su emblema sale a la derecha de tu ficha con el nivel, y en pequeño junto a tu nombre en el mundo (lo ven todos). La barra de experiencia toma el color de tu rango. Pulsa la «!» del emblema para más información.\r\n- Subir de nivel cuesta el doble de experiencia.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794703139594/"
+ "notas": "# NUEVA CUEVA\nEl Abismo Mágico: plataformas de roca suspendidas sobre la niebla, con flores y cristales. Entrada en el claro del bosque encantado.\n- Bichos nuevos: Espíritu mágico (nivel 42), Polilla arcana (45) y los Esbirros de Binks (48). Al final te espera la jefa, la Babosa Binks (nivel 50).\n- Cofre del explorador: la primera vez que llegas al final de cada cueva (mina, Gruta Musgosa y Abismo) encuentras un cofre solo para ti, con mucho oro, un objeto legendario, un amuleto y una gema u orbe.\n\nAdemás:\n- Al clicar en un jugador ves su clase, raza, nivel y facción (también Sagrado, Miliciano o Caótico).\n- El nivel de los compañeros de grupo se actualiza solo.\n- Sin menú de comerciar o invitar durante 10 s después de pegar o recibir un golpe.\n- La barra de hechizos y las teclas se guardan con tu personaje: las mismas en cualquier PC.\n- Contra jugadores y bots se pega y se defiende como con el equipo común; la rareza cuenta contra los bichos. Aturdir solo funciona contra bichos.\n- Guardias y torres solo atacan a jugadores y bots enemigos; los bichos dejan de perseguirte cerca de las ciudades.\n- Árboles, minerales y plantas recogidos desaparecen para todos.\n- La espada matadragones cae mucho menos.\n- El marco de cada casilla del inventario toma el color de lo que lleva.\n- Ajustes: tamaño del chat y «Mover la interfaz…» para colocar y agrandar cada ventana.\n- Arreglados gólems repetidos y bichos que parpadeaban, y mejoras de rendimiento.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794745802769/"
 }
