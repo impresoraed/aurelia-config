@@ -1,12 +1,12 @@
 {
- "build": 1794845897894,
- "juego": "1.1.82",
- "fecha": "2026-11-16T16:18:20.866Z",
+ "build": 1794941670873,
+ "juego": "1.1.83",
+ "fecha": "2026-11-17T18:54:30.873Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "75c0ba5745ad3824398517c4ab3ec9db45d5048767a65b22ed96560b40cd1a08",
-   "len": 117985299
+   "sha": "a7b9041fa8164c0a8d2e16510c551f59dca50ce311040193395e86834e344d49",
+   "len": 117989873
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "cacb4434e3ab13e5dfed7ee488411a5bea10c1ae36dec1c34460941504e93bfe",
   "ws": "6e0cb5d95918ec8fa74bccfb5b78f723f7113f3bd6c6a71164f4ba373af495a0"
  },
- "notas": "Novedades:\n\n- La ficha del personaje muestra el porcentaje de experiencia del nivel (también en Leyenda).\n- Información: nueva pestaña «Leyenda» con todos los emblemas, sus rangos y el tuyo.\n- La sangre de los golpes sale a la altura del pecho, también en los bichos grandes.\n- Arreglada la marca negra de la barra de vida.\n- Un 30 % menos de árboles en todo el mundo.\n- Gárgolas, hombres lobo, cíclopes, medusas y águilas salen en más sitios y en un lugar distinto cada vez.\n- El minimapa enseña la entrada de las cuevas cuando la tienes cerca.\n- Ya no se puede pasar por detrás de los arcos de las cuevas.\n- Mejor juego cuando alguien tiene mala conexión: los objetos se recogen al momento y los bichos no reaparecen a medias.\n- Volver a pulsar la tecla de un hechizo ya no lo descarga.\n- El gólem de cristal y el esquimal sangran.\n- Ya no se ve el mapa antiguo mientras carga el bueno.\n- Muros de la Caverna Helada sin huecos negros.\n- Los hechizos con objetivo estallan directamente en el bicho.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794845897894/"
+ "notas": "¡Nueva actualización, aventureros!\n\n# ⚔ LOS GÓLEMS SE ENDURECEN\nHan estado entrenando en las profundidades y ahora sus golpes duelen de verdad:\n· Gólem de piedra: ahora pega 190–240 (antes 64–89).\n· Gólem de cristal: ahora pega 240–290 (antes 77–107).\n· Gólem de magma: ahora pega 220–285 (antes 71–100).\nId bien equipados... o id en grupo.\n\n¡Nos vemos en Aurelia!",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794941670873/"
 }
