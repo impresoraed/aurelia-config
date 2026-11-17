@@ -1,12 +1,12 @@
 {
- "build": 1794941670873,
- "juego": "1.1.83",
- "fecha": "2026-11-17T18:54:30.873Z",
+ "build": 1794944474832,
+ "juego": "1.1.84",
+ "fecha": "2026-11-17T19:41:14.832Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "a7b9041fa8164c0a8d2e16510c551f59dca50ce311040193395e86834e344d49",
-   "len": 117989873
+   "sha": "9a7e3aadf2e7c08e21c6e2bde9d70ab8fde3d25e859df549b39ac948e024d0b7",
+   "len": 117990471
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "cacb4434e3ab13e5dfed7ee488411a5bea10c1ae36dec1c34460941504e93bfe",
   "ws": "6e0cb5d95918ec8fa74bccfb5b78f723f7113f3bd6c6a71164f4ba373af495a0"
  },
- "notas": "¡Nueva actualización, aventureros!\n\n# ⚔ LOS GÓLEMS SE ENDURECEN\nHan estado entrenando en las profundidades y ahora sus golpes duelen de verdad:\n· Gólem de piedra: ahora pega 190–240 (antes 64–89).\n· Gólem de cristal: ahora pega 240–290 (antes 77–107).\n· Gólem de magma: ahora pega 220–285 (antes 71–100).\nId bien equipados... o id en grupo.\n\n¡Nos vemos en Aurelia!",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794941670873/"
+ "notas": "¡Nueva actualización, aventureros!\n\n# 🔧 ARREGLOS\n· La conexión con el servidor es más fiable: los ordenadores que a veces no conectaban ahora deberían hacerlo a la primera.\n\n¡Nos vemos en Aurelia!",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1794944474832/"
 }
