@@ -1,12 +1,12 @@
 {
- "build": 1795460204757,
- "juego": "1.1.85",
- "fecha": "2026-11-23T18:56:46.014Z",
+ "build": 1795551356870,
+ "juego": "1.1.86",
+ "fecha": "2026-11-24T20:15:56.870Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "b6731145e70e57c9519a6136ac520801b5089edccf7d82fc114abec2bc82f409",
-   "len": 10428222
+   "sha": "b3a18900f2af9acd08a07da4849fe92afb3116779e90f9c787ffb8875f8545c6",
+   "len": 14835767
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "9c35c3bd080a51ced8698573a31066f3813b79afc16e310e8da38da06c399c40",
   "ws": "6e0cb5d95918ec8fa74bccfb5b78f723f7113f3bd6c6a71164f4ba373af495a0"
  },
- "notas": "Novedades:\n\n# AMIGOS POR CUENTA\n- Añade a cualquier personaje de un compañero y quedáis amigos con todos vuestros personajes. En la lista sale el nombre de su cuenta y con qué personaje está jugando.\n- La solicitud de amistad te llega al personaje con el que estés jugando.\n\n- La mochila tiene 24 casillas para todos: los materiales ocupan casilla (antes salían casillas de más que no se podían usar).\n- Lo que cae al suelo desaparece a los 5 minutos.\n- Mucho menos ruido: los golpes y hechizos de peleas en las que no estás tú suenan bajito y de vez en cuando.\n- Ya no parpadean los bichos cuando estás muerto.\n- Arreglado el personaje que se quedaba congelado corriendo en una dirección.\n- Las piedras, el hielo y la nieve sueltos del suelo de las cuevas ya no te atraviesan el cuerpo.\n- Gruta Musgosa sin zonas negras donde los muros tocan el suelo.\n- El brillo de los objetos legendarios ya no parpadea al andar.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795460204757/"
+ "notas": "# NUEVO JEFE: EL CASTIGADOR\nUn nuevo enemigo recorre todas las tierras de Aurelia, de las praderas a las islas: el Castigador del Martillo Espinado.\n- Nivel 50 y muchísima vida: mejor ir en grupo.\n- Da más experiencia que ningún otro bicho.\n- Su botín es cinco veces más generoso que el de los gólems.\n- Cuando cae, vuelve a aparecer a los 20 minutos en otro lugar del mapa.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795551356870/"
 }
