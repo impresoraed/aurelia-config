@@ -1,12 +1,12 @@
 {
- "build": 1795551356870,
- "juego": "1.1.86",
- "fecha": "2026-11-24T20:15:56.870Z",
+ "build": 1795643673447,
+ "juego": "1.1.87",
+ "fecha": "2026-11-25T21:54:33.447Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "b3a18900f2af9acd08a07da4849fe92afb3116779e90f9c787ffb8875f8545c6",
-   "len": 14835767
+   "sha": "70e1987d896fe6d627e9a30492b614905e663ffc9176b7f5dfabc65ae2ab306a",
+   "len": 71928019
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "9c35c3bd080a51ced8698573a31066f3813b79afc16e310e8da38da06c399c40",
   "ws": "6e0cb5d95918ec8fa74bccfb5b78f723f7113f3bd6c6a71164f4ba373af495a0"
  },
- "notas": "# NUEVO JEFE: EL CASTIGADOR\nUn nuevo enemigo recorre todas las tierras de Aurelia, de las praderas a las islas: el Castigador del Martillo Espinado.\n- Nivel 50 y muchísima vida: mejor ir en grupo.\n- Da más experiencia que ningún otro bicho.\n- Su botín es cinco veces más generoso que el de los gólems.\n- Cuando cae, vuelve a aparecer a los 20 minutos en otro lugar del mapa.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795551356870/"
+ "notas": "# NUEVA CUEVA: GUSANERAS\nAl norte de Xegaz, en la isla central, se ha abierto una cueva infestada de hongos y huevos.\nDentro te esperan la Babosa Mutante, el Chamán Fúngico y el Mutante fúngico.\n\n# JEFE: FÚNGICO GOLOSO\nEn la sala redonda del fondo vive el Fúngico Goloso. Vuelve a aparecer cada 20 minutos.\n\n# ARREGLOS\nEl Castigador ya no aparece cerca de las ciudades ni de las aldeas.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795643673447/"
 }
