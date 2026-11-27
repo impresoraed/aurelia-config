@@ -1,12 +1,12 @@
 {
- "build": 1795803751838,
- "juego": "1.1.88",
- "fecha": "2026-11-27T18:22:31.838Z",
+ "build": 1795810329273,
+ "juego": "1.1.89",
+ "fecha": "2026-11-27T20:12:09.273Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "fe5f0fc06a89a13a544ed945af28f65e1329ef5cbc07badb6f3dbab28f2b321f",
-   "len": 72078605
+   "sha": "3f9545b37764c68ece69e3a3792e3708cad1257df9ee980009792d0967f8be28",
+   "len": 75249023
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "9c35c3bd080a51ced8698573a31066f3813b79afc16e310e8da38da06c399c40",
   "ws": "6e0cb5d95918ec8fa74bccfb5b78f723f7113f3bd6c6a71164f4ba373af495a0"
  },
- "notas": "# GUSANERAS, MEJORADA\nLa cueva ya sale en el minimapa y en el mapa de cuevas, con su suelo y su tamaño real. Dentro de una cueva, el minimapa solo enseña esa cueva.\nYa no te puedes esconder detrás de los muros ni chocar contra paredes invisibles en mitad de las salas.\nLa entrada se integra mejor con la hierba de la isla.\n\n# BICHOS\nEl Chamán Fúngico pasa a nivel 80.\nLa Babosa Mutante repta con un vaivén más suave.\n\n# BARRAS DE ESTADO\nDebajo de la vida de los bichos verás cuánto les queda de parálisis, aturdimiento, inmovilizado o daño que dura.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795803751838/"
+ "notas": "# CUEVAS MÁS CUIDADAS\nDentro de una cueva solo verás esa cueva: nada del mundo de arriba ni de las cuevas de al lado.\nEl minimapa de Gusaneras ya muestra su suelo.\nLos nombres ya no desaparecen al acercarte a los bordes de la cueva.\nMenos choques contra los muros de Gusaneras.\n\n# BICHOS\nLa Babosa Mutante repta de forma más suave y fluida.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795810329273/"
 }
