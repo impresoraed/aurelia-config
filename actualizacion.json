@@ -1,12 +1,12 @@
 {
- "build": 1795810329273,
- "juego": "1.1.89",
- "fecha": "2026-11-27T20:12:09.273Z",
+ "build": 1795873769596,
+ "juego": "1.1.90",
+ "fecha": "2026-11-28T13:49:29.596Z",
  "archivos": [
   {
    "n": "index.html",
-   "sha": "3f9545b37764c68ece69e3a3792e3708cad1257df9ee980009792d0967f8be28",
-   "len": 75249023
+   "sha": "875530c672d127d098783f7790fb9b22a612bdc2035867cf087c5c5531343fd9",
+   "len": 75345118
   },
   {
    "n": "logo.png",
@@ -30,6 +30,6 @@
   "sha": "9c35c3bd080a51ced8698573a31066f3813b79afc16e310e8da38da06c399c40",
   "ws": "6e0cb5d95918ec8fa74bccfb5b78f723f7113f3bd6c6a71164f4ba373af495a0"
  },
- "notas": "# CUEVAS MÁS CUIDADAS\nDentro de una cueva solo verás esa cueva: nada del mundo de arriba ni de las cuevas de al lado.\nEl minimapa de Gusaneras ya muestra su suelo.\nLos nombres ya no desaparecen al acercarte a los bordes de la cueva.\nMenos choques contra los muros de Gusaneras.\n\n# BICHOS\nLa Babosa Mutante repta de forma más suave y fluida.",
- "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795810329273/"
+ "notas": "# ESCUDO DIVINO RENOVADO\nEl Escudo divino y el Escudo férreo ahora envuelven al personaje en una esfera de energía azul y violeta.\n\n# GUSANERAS\nYa no chocas contra escalones invisibles al ir pegado a los muros.\nEn los bordes de abajo puedes acercarte hasta el filo: el muro te tapa los pies como si estuvieras detrás.\nLos nombres se tapan con los muros igual que el personaje, sin desaparecer de golpe.",
+ "url": "https://github.com/impresoraed/aurelia-config/releases/download/act-1795873769596/"
 }
